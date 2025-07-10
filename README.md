@@ -33,9 +33,11 @@ https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D
 
 ## Beginner Maths:-
 
-
 ### Missing Number
 https://cses.fi/problemset/task/1083
 
 ## Increasing Array
 https://cses.fi/problemset/task/1094/
+
+## Kth Largest Divisor
+https://atcoder.jp/contests/abc120/tasks/abc120_b
