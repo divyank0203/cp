@@ -44,3 +44,6 @@ https://atcoder.jp/contests/abc120/tasks/abc120_b
 
 ## Alyona and Numbers
 https://codeforces.com/problemset/problem/682/A
+
+## Kth factorization
+https://codeforces.com/problemset/problem/797/A
