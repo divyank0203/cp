@@ -28,3 +28,14 @@ https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B
 
 ### Number of Segments with Big Sum
 https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D
+
+
+
+## Beginner Maths:-
+
+
+### Missing Number
+https://cses.fi/problemset/task/1083
+
+## Increasing Array
+https://cses.fi/problemset/task/1094/
