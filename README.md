@@ -36,14 +36,14 @@ https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D
 ### Missing Number
 https://cses.fi/problemset/task/1083
 
-## Increasing Array
+### Increasing Array
 https://cses.fi/problemset/task/1094/
 
-## Kth Largest Divisor
+### Kth Largest Divisor
 https://atcoder.jp/contests/abc120/tasks/abc120_b
 
-## Alyona and Numbers
+### Alyona and Numbers
 https://codeforces.com/problemset/problem/682/A
 
-## Kth factorization
+### Kth factorization
 https://codeforces.com/problemset/problem/797/A
