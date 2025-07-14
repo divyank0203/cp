@@ -47,3 +47,9 @@ https://codeforces.com/problemset/problem/682/A
 
 ### Kth factorization
 https://codeforces.com/problemset/problem/797/A
+
+
+## Greedy Algorithms:-
+
+### Array Recovery
+https://codeforces.com/problemset/problem/1739/B
