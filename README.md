@@ -56,3 +56,6 @@ https://codeforces.com/problemset/problem/1739/B
 
 ### Save the Magazines
 https://codeforces.com/problemset/problem/1743/C
+
+### Coprime
+https://codeforces.com/problemset/problem/1742/D
