@@ -53,3 +53,6 @@ https://codeforces.com/problemset/problem/797/A
 
 ### Array Recovery
 https://codeforces.com/problemset/problem/1739/B
+
+### Save the Magazines
+https://codeforces.com/problemset/problem/1743/C
