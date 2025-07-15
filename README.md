@@ -59,3 +59,6 @@ https://codeforces.com/problemset/problem/1743/C
 
 ### Coprime
 https://codeforces.com/problemset/problem/1742/D
+
+### Thermostat
+https://codeforces.com/problemset/problem/1759/C
