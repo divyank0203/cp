@@ -62,3 +62,6 @@ https://codeforces.com/problemset/problem/1742/D
 
 ### Thermostat
 https://codeforces.com/problemset/problem/1759/C
+
+### Sum of Two Numbers
+https://codeforces.com/problemset/problem/1788/B
