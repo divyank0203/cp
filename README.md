@@ -48,6 +48,9 @@ https://codeforces.com/problemset/problem/682/A
 ### Kth factorization
 https://codeforces.com/problemset/problem/797/A
 
+### Count Balls
+https://atcoder.jp/contests/abc158/tasks/abc158_b
+
 
 ## Greedy Algorithms:-
 
