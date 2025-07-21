@@ -54,6 +54,9 @@ https://atcoder.jp/contests/abc158/tasks/abc158_b
 ### Large Digits
 https://atcoder.jp/contests/abc187/tasks/abc187_a
 
+### Odd vs Even
+https://atcoder.jp/contests/arc116/tasks/arc116_a
+
 
 ## Greedy Algorithms:-
 
