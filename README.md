@@ -57,6 +57,9 @@ https://atcoder.jp/contests/abc187/tasks/abc187_a
 ### Odd vs Even
 https://atcoder.jp/contests/arc116/tasks/arc116_a
 
+### Sum of GCD of Tuples (Easy)
+https://atcoder.jp/contests/abc162/tasks/abc162_c
+
 
 ## Greedy Algorithms:-
 
