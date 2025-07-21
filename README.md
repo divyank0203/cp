@@ -60,6 +60,9 @@ https://atcoder.jp/contests/arc116/tasks/arc116_a
 ### Sum of GCD of Tuples (Easy)
 https://atcoder.jp/contests/abc162/tasks/abc162_c
 
+### Fair Candy Distribution
+https://atcoder.jp/contests/abc208/tasks/abc208_c
+
 
 ## Greedy Algorithms:-
 
