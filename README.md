@@ -63,6 +63,9 @@ https://atcoder.jp/contests/abc162/tasks/abc162_c
 ### Fair Candy Distribution
 https://atcoder.jp/contests/abc208/tasks/abc208_c
 
+### Next Prime
+https://atcoder.jp/contests/abc149/tasks/abc149_c
+
 
 ## Greedy Algorithms:-
 
