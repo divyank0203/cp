@@ -13,12 +13,9 @@ int main(){
                 j++;
             }
         }
-        
-
 
         
-        
-        
+            
         cout<<s<<endl;
     }
 }
