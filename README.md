@@ -69,6 +69,9 @@ https://atcoder.jp/contests/abc149/tasks/abc149_c
 ### Max Even 
 https://atcoder.jp/contests/abc272/tasks/abc272_c
 
+### CounterExample
+https://codeforces.com/problemset/problem/483/A
+
 
 ## Greedy Algorithms:-
 
