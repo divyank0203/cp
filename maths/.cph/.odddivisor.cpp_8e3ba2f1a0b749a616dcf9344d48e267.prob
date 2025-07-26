@@ -1,0 +1,1 @@
+{"name":"Local: odddivisor","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\odddivisor.cpp","tests":[{"id":1753521512413,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776","output":"NO\nYES\nNO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\odddivisor.cpp","group":"local","local":true}

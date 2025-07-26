@@ -72,6 +72,9 @@ https://atcoder.jp/contests/abc272/tasks/abc272_c
 ### CounterExample
 https://codeforces.com/problemset/problem/483/A
 
+### Odd Divisor
+https://codeforces.com/problemset/problem/1475/A
+
 
 ## Greedy Algorithms:-
 
