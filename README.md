@@ -75,6 +75,9 @@ https://codeforces.com/problemset/problem/483/A
 ### Odd Divisor
 https://codeforces.com/problemset/problem/1475/A
 
+### Design Tutorial: Learn from Math
+https://codeforces.com/problemset/problem/472/A
+
 
 ## Greedy Algorithms:-
 
