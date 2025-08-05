@@ -8,6 +8,7 @@ void even(int n, vector<int> a){
     if((n-1)%2==0){
         cout<<a[n-1]<<" ";
     }
+    
     even(n-1,a);
     
 }

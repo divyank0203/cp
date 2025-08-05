@@ -94,7 +94,8 @@ https://codeforces.com/problemset/problem/1720/A
 
 ## Recursion & Backtracking:-
 
-### 
+### Print Even Indices
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F
 
 
 
