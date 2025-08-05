@@ -100,6 +100,9 @@ https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F
 ### Pyramid
 https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G
 
+### Inverted Pyramid
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H
+
 
 
 ## Greedy Algorithms:-
