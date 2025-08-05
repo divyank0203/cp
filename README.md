@@ -84,6 +84,9 @@ https://codeforces.com/problemset/problem/1474/B
 ### Pleasant Pairs
 https://codeforces.com/contest/1541/problem/B
 
+### Permutation Swap
+https://codeforces.com/problemset/problem/1828/B
+
 
 
 ## Greedy Algorithms:-
