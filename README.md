@@ -81,6 +81,9 @@ https://codeforces.com/problemset/problem/472/A
 ### Different Divisors
 https://codeforces.com/problemset/problem/1474/B
 
+### Pleasant Pairs
+https://codeforces.com/contest/1541/problem/B
+
 
 
 ## Greedy Algorithms:-
