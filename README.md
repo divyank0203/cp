@@ -97,6 +97,9 @@ https://codeforces.com/problemset/problem/1720/A
 ### Print Even Indices
 https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F
 
+### Pyramid
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G
+
 
 
 ## Greedy Algorithms:-
