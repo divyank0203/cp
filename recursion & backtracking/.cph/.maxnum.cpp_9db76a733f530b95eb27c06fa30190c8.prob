@@ -1,0 +1,1 @@
+{"name":"Local: maxnum","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\recursion & backtracking\\maxnum.cpp","tests":[{"id":1754563073405,"input":"5\n1 -3 5 4 -6\n","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\recursion & backtracking\\maxnum.cpp","group":"local","local":true}
