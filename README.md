@@ -97,14 +97,8 @@ https://codeforces.com/problemset/problem/1679/A
 
 ## Recursion & Backtracking:-
 
-### Print Even Indices
-https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F
-
-### Pyramid
-https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G
-
-### Inverted Pyramid
-https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H
+### Recursion Basics Sheet
+https://codeforces.com/group/MWSDmqGsZm/contest/223339
 
 
 
