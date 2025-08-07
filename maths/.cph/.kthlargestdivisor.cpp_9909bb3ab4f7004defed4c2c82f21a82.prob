@@ -1,0 +1,1 @@
+{"name":"Local: kthlargestdivisor","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\kthlargestdivisor.cpp","tests":[{"id":1754403862507,"input":"100 50 4\n","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\kthlargestdivisor.cpp","group":"local","local":true}
