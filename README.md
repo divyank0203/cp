@@ -90,6 +90,9 @@ https://codeforces.com/problemset/problem/1828/B
 ### Burenka Plays with Fractions
 https://codeforces.com/problemset/problem/1720/A
 
+### AvtoBus
+https://codeforces.com/problemset/problem/1679/A
+
 
 
 ## Recursion & Backtracking:-
