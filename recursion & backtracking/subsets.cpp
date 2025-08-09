@@ -6,15 +6,15 @@ void helper(int i, vector<int>& nums, vector<int>& curSet, vector<vector<int>>& 
         subsets.push_back(vector<int>(curSet));
         return;
     }
-    // decision to include nums[i]
+    
     curSet.push_back(nums[i]);
     helper(i + 1, nums, curSet, subsets);
-    curSet.pop_back();
 
-    // decision NOT to include nums[i]
+    curSet.pop_back();
+   
     helper(i + 1, nums, curSet, subsets);
 }
-vector<vector<int>> subsetsWithoutDuplicates(vector<int>& nums) {
+vector<vector<int>> subsets(vector<int>& nums) {
     vector<int> curSet;
     vector<vector<int>> subsets;
     helper(0, nums, curSet, subsets);
@@ -26,9 +26,9 @@ vector<vector<int>> subsetsWithoutDuplicates(vector<int>& nums) {
 int main(){
 vector<int> a = {1,2,4};
 vector<int> c;
-vector<vector<int>> res = subsetsWithoutDuplicates(a);
+vector<vector<int>> res = subsets(a);
 for(int i=0; i<res.size(); i++){
-    for(int j=0; j<res.size(); j++){
+    for(int j=0; j<res[i].size(); j++){
         cout<<res[i][j]<<" ";
     }
     cout<<endl;
