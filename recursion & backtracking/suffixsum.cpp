@@ -1,21 +1,21 @@
 #include<bits/stdc++.h>
 using namespace std;
-int solve(int i, vector<int> a, int sum, int m){
-    if(i<m-1){
-        return sum;
+long long solve(long long i, vector<long long>& a,  long long m){
+    if(m==0){
+        return 0;
     }
-    
-    return solve(i-1, a, sum+=a[i], m);
-    
+    else{
+    return a[i]+solve(i-1, a, m-1);
+    }
 
 }
 int main(){
-int n, m;
+long long n, m;
 cin>>n>>m;
-vector<int> a(n);
-for(int i=0; i<n; i++){
+vector<long long> a(n);
+for(long long i=0; i<n; i++){
     cin>>a[i];
 }
-int ans = solve(n-1, a, 0, m);
+long long ans = solve(n-1, a, m);
 cout<<ans;
 }
