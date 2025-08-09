@@ -11,8 +11,6 @@ void apple(ll sum, ll i, vector<ll>& a , ll n, vector<ll>& s){
     
     apple(sum, i+1, a, n, s);   
     
-
-    
 }
 vector<ll> solve(int n, vector<ll>& s){
 

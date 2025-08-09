@@ -100,6 +100,9 @@ https://codeforces.com/problemset/problem/1679/A
 ### Recursion Basics Sheet
 https://codeforces.com/group/MWSDmqGsZm/contest/223339
 
+### Apple Division
+https://cses.fi/problemset/task/1623/
+
 
 
 ## Greedy Algorithms:-
