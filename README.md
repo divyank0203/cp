@@ -109,6 +109,9 @@ https://cses.fi/problemset/task/1624/
 ### Dreamoon and Wifi
 https://codeforces.com/problemset/problem/476/B
 
+### Pow(x, n)
+https://leetcode.com/problems/powx-n/
+
 
 
 ## Greedy Algorithms:-
