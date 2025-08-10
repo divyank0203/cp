@@ -106,6 +106,9 @@ https://cses.fi/problemset/task/1623/
 ### Chessboard and Queens
 https://cses.fi/problemset/task/1624/
 
+### Dreamoon and Wifi
+https://codeforces.com/problemset/problem/476/B
+
 
 
 ## Greedy Algorithms:-
