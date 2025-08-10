@@ -103,6 +103,9 @@ https://codeforces.com/group/MWSDmqGsZm/contest/223339
 ### Apple Division
 https://cses.fi/problemset/task/1623/
 
+### Chessboard and Queens
+https://cses.fi/problemset/task/1624/
+
 
 
 ## Greedy Algorithms:-
