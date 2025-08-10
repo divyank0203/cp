@@ -112,6 +112,9 @@ https://codeforces.com/problemset/problem/476/B
 ### Pow(x, n)
 https://leetcode.com/problems/powx-n/
 
+### Gregor and Cryptography
+https://codeforces.com/contest/1549/problem/A
+
 
 
 ## Greedy Algorithms:-
