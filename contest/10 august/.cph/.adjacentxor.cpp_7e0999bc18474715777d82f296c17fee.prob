@@ -1,0 +1,1 @@
+{"name":"Local: adjacentxor","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\10 august\\adjacentxor.cpp","tests":[{"id":1754841963592,"input":"2\n2\n3\n","output":"-1 2\n-1 3 -1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\10 august\\adjacentxor.cpp","group":"local","local":true}
