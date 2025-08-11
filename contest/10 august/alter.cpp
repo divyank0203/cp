@@ -9,6 +9,7 @@ int main(){
         cin>>n;
         if(n==2){
             cout<<-1<<" "<<2<<endl;
+            
         }
         else if(n%2==0&&n>2){
             for(ll i=0; i<n; i++){
