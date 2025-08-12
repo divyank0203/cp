@@ -93,6 +93,9 @@ https://codeforces.com/problemset/problem/1720/A
 ### AvtoBus
 https://codeforces.com/problemset/problem/1679/A
 
+### Noldbach Problem
+https://codeforces.com/problemset/problem/17/A
+
 
 
 ## Recursion & Backtracking:-
