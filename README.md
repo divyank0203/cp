@@ -96,6 +96,9 @@ https://codeforces.com/problemset/problem/1679/A
 ### Noldbach Problem
 https://codeforces.com/problemset/problem/17/A
 
+### Bachgold Problem
+https://codeforces.com/problemset/problem/749/A
+
 
 
 ## Recursion & Backtracking:-
