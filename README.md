@@ -99,6 +99,8 @@ https://codeforces.com/problemset/problem/17/A
 ### Bachgold Problem
 https://codeforces.com/problemset/problem/749/A
 
+### Prime Subtraction
+https://codeforces.com/problemset/problem/1238/A
 
 
 ## Recursion & Backtracking:-
