@@ -1,0 +1,1 @@
+{"name":"Local: nim","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\20 august codechef\\nim.cpp","tests":[{"id":1755706289916,"input":"2\n1\n2\n2\n1 1","output":"499122177\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\20 august codechef\\nim.cpp","group":"local","local":true}
