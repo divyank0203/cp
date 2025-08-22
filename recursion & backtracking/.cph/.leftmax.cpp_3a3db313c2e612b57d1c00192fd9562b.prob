@@ -1,0 +1,1 @@
+{"name":"Local: leftmax","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\recursion & backtracking\\leftmax.cpp","tests":[{"id":1755871647618,"input":"5\n4 3 5 7 3\n","output":"4 4 5 7 7 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\recursion & backtracking\\leftmax.cpp","group":"local","local":true}
