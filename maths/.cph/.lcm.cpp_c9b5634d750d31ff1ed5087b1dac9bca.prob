@@ -1,0 +1,1 @@
+{"name":"Local: lcm","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\lcm.cpp","tests":[{"id":1756218106797,"input":"4\n1 1337\n13 69\n2 4\n88 89\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\lcm.cpp","group":"local","local":true}

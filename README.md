@@ -102,6 +102,10 @@ https://codeforces.com/problemset/problem/749/A
 ### Prime Subtraction
 https://codeforces.com/problemset/problem/1238/A
 
+### LCM Problem
+https://codeforces.com/problemset/problem/1389/A
+
+
 
 ## Recursion & Backtracking:-
 
