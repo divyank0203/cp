@@ -105,6 +105,9 @@ https://codeforces.com/problemset/problem/1238/A
 ### LCM Problem
 https://codeforces.com/problemset/problem/1389/A
 
+### PolandBall and Hypothesis
+https://codeforces.com/problemset/problem/755/A
+
 
 
 ## Recursion & Backtracking:-
