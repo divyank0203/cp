@@ -13,7 +13,7 @@ bool prime(ll n){
 int main(){
     ll n;
     cin>>n;
-    if(n%2!=0){
+    if(n%2!=0||n==1){
         cout<<1<<endl;
     }
     else{
