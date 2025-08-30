@@ -13,9 +13,13 @@ bool prime(ll n){
 int main(){
     ll n;
     cin>>n;
-    if(n%2!=0||n==1){
+    if(n==1){
+        cout<<3<<endl;
+    }
+    else if(n%2!=0){
         cout<<1<<endl;
     }
+    
     else{
         for(ll m=1; m<=1000; m++){
             if(prime((n*m)+1)==false){
