@@ -1,0 +1,1 @@
+{"name":"Local: noprimedif","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\noprimedif.cpp","tests":[{"id":1756603324059,"input":"3\n4 4\n5 7\n6 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\noprimedif.cpp","group":"local","local":true}
