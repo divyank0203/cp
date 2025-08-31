@@ -154,3 +154,6 @@ https://codeforces.com/problemset/problem/1791/G1
 
 ### Positives and Negatives
 https://codeforces.com/problemset/problem/1791/E
+
+### Subsequence Addition (Easy)
+https://codeforces.com/problemset/problem/1807/G1
