@@ -148,3 +148,9 @@ https://codeforces.com/problemset/problem/1759/C
 
 ### Sum of Two Numbers
 https://codeforces.com/problemset/problem/1788/B
+
+### Teleporters (Easy Version)
+https://codeforces.com/problemset/problem/1791/G1
+
+### Positives and Negatives
+https://codeforces.com/problemset/problem/1791/E
