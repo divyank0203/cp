@@ -157,3 +157,6 @@ https://codeforces.com/problemset/problem/1791/E
 
 ### Subsequence Addition (Easy)
 https://codeforces.com/problemset/problem/1807/G1
+
+### Circular Local MiniMax
+https://codeforces.com/problemset/problem/1685/A
