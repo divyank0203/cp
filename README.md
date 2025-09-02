@@ -108,6 +108,9 @@ https://codeforces.com/problemset/problem/1389/A
 ### PolandBall and Hypothesis
 https://codeforces.com/problemset/problem/755/A
 
+### The Eternal Immortality
+https://codeforces.com/problemset/problem/869/B
+
 
 
 ## Recursion & Backtracking:-
