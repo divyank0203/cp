@@ -166,3 +166,6 @@ https://codeforces.com/problemset/problem/1685/A
 
 ### Binary Inversion
 https://codeforces.com/problemset/problem/1760/E
+
+### Sort Zero
+https://codeforces.com/problemset/problem/1712/C
