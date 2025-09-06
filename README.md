@@ -163,3 +163,6 @@ https://codeforces.com/problemset/problem/1807/G1
 
 ### Circular Local MiniMax
 https://codeforces.com/problemset/problem/1685/A
+
+### Binary Inversion
+https://codeforces.com/problemset/problem/1760/E

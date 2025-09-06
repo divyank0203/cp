@@ -1,3 +1,10 @@
+// three cases possible:-
+// change the first occurence of 0 to 1
+// change the first occurence of 1 from the end to 0
+// keep the original array as it is
+// find the max of all three cases
+
+
 #include<bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -16,14 +23,21 @@ int main(){
             cout<<0<<endl;
         }
         else{
+            vector<ll> b = a;
+            vector<ll> c = a;
 
 
             
-bool flag=false;
-            if(a[0]==0){
-                a[0]=1;
-                flag=true;
+
+            for(ll i=0; i<n; i++){
+                if(a[i]==0){
+                    a[i]=1;
+                    break;
+                }
             }
+                
+            
+            
             
             unordered_map<ll, ll> mp1;
             for(ll i=0; i<n; i++){
@@ -42,25 +56,28 @@ bool flag=false;
                 }
             }
         }
-        if(flag){
-        a[0]=0;
-        }
 
-        bool flag2=false;
-            if(a[n-1]==1){
-                a[n-1]=0;
-                flag2=true;
-            }
+
+      for(ll i=n-1; i>=0; i--){
+                if(b[i]==1){
+                    b[i]=0;
+                    break;
+                }
+      }
+      
+            
+                
+
             
 
             unordered_map<ll, ll> mp2;
             for(ll i=0; i<n; i++){
-                mp2[a[i]]++;
+                mp2[b[i]]++;
             }
         ll c2=mp2[1];
         ll ans2=0;
         for(ll i=n-1; i>=0; i--){
-            if(a[i]==0){
+            if(b[i]==0){
                 ans2+=c2;
 
             }else{
@@ -70,18 +87,18 @@ bool flag=false;
                 }
             }
         }
-        if(flag2){
-        a[n-1]=1;
-        }
+        
+        b[n-1]=1;
+        
 
             unordered_map<ll, ll> mp3;
             for(ll i=0; i<n; i++){
-                mp3[a[i]]++;
+                mp3[c[i]]++;
             }
         ll c3=mp3[1];
         ll ans3=0;
         for(ll i=n-1; i>=0; i--){
-            if(a[i]==0){
+            if(c[i]==0){
                 ans3+=c3;
 
             }else{
