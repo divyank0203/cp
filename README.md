@@ -169,3 +169,6 @@ https://codeforces.com/problemset/problem/1760/E
 
 ### Sort Zero
 https://codeforces.com/problemset/problem/1712/C
+
+### Subsequence Addition (Hard)
+https://codeforces.com/problemset/problem/1807/G2
