@@ -114,6 +114,9 @@ https://codeforces.com/problemset/problem/869/B
 ### Insert Digit
 https://codeforces.com/problemset/problem/1811/A
 
+### Exponential Equation 
+https://codeforces.com/problemset/problem/1787/A
+
 
 
 ## Recursion & Backtracking:-

@@ -1,0 +1,1 @@
+{"name":"Local: expequation","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\expequation.cpp","tests":[{"id":1757535267220,"input":"5\n3\n7\n42\n31250\n20732790\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\expequation.cpp","group":"local","local":true}
