@@ -117,6 +117,9 @@ https://codeforces.com/problemset/problem/1811/A
 ### Exponential Equation 
 https://codeforces.com/problemset/problem/1787/A
 
+### Removing Smallest Elements
+https://codeforces.com/problemset/problem/1734/C
+
 
 
 ## Recursion & Backtracking:-
