@@ -120,6 +120,9 @@ https://codeforces.com/problemset/problem/1787/A
 ### Removing Smallest Elements
 https://codeforces.com/problemset/problem/1734/C
 
+### Everybody likes good arrays!
+https://codeforces.com/problemset/problem/1777/A
+
 
 
 ## Recursion & Backtracking:-
