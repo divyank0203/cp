@@ -193,7 +193,7 @@ https://codeforces.com/problemset/problem/1730/C
 
 
 
-## Prefix Sum
+## Prefix Sum & Difference Array
 
 ### Bounding
 https://atcoder.jp/contests/abc130/tasks/abc130_b
