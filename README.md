@@ -190,3 +190,10 @@ https://codeforces.com/problemset/problem/1720/C
 
 ### Minimum Notation
 https://codeforces.com/problemset/problem/1730/C
+
+
+
+## Prefix Sum
+
+### Bounding
+https://atcoder.jp/contests/abc130/tasks/abc130_b
