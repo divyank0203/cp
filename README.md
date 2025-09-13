@@ -197,3 +197,10 @@ https://codeforces.com/problemset/problem/1730/C
 
 ### Bounding
 https://atcoder.jp/contests/abc130/tasks/abc130_b
+
+
+
+## Problem A Grind
+
+### Dislike of Threes
+https://codeforces.com/problemset/problem/1560/A
