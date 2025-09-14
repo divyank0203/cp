@@ -12,18 +12,24 @@ int main(){
         }
 
         else{
-            ll c1=0;
-            ll c2=0;
-            long double c = n/3.0;
-            if(round(c)>(n/3)){
-                c2 = (n/3)+1;
-                c1 = (n/3); 
+            ll c1=(n/3);
+            ll c2=(n/3)+1;
+            if(c1+(c2*2)==n){
+                cout<<c1<<" "<<c2<<endl;
             }
-            else if(round(c)==(n/3)){
-                c1 = (n/3)+1; 
-                c2 = (n/3); 
+            else{
+                cout<<c2<<" "<<c1<<endl;
             }
-            cout<<c1<<" "<<c2<<endl;
+            // long double c = n/3.0;
+            // if(round(c)>(n/3)){
+            //     c2 = (n/3)+1;
+            //     c1 = (n/3); 
+            // }
+            // else if(round(c)==(n/3)){
+            //     c1 = (n/3)+1; 
+            //     c2 = (n/3); 
+            // }
+            // cout<<c1<<" "<<c2<<endl;
         }
     }
 }
