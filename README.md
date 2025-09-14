@@ -207,3 +207,6 @@ https://codeforces.com/problemset/problem/1560/A
 
 ### PolyCarp and Coins
 https://codeforces.com/problemset/problem/1551/A
+
+### Ordinary Numbers
+https://codeforces.com/contest/1520/problem/B
