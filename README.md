@@ -204,3 +204,6 @@ https://atcoder.jp/contests/abc130/tasks/abc130_b
 
 ### Dislike of Threes
 https://codeforces.com/problemset/problem/1560/A
+
+### PolyCarp and Coins
+https://codeforces.com/problemset/problem/1551/A
