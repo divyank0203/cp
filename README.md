@@ -210,3 +210,6 @@ https://codeforces.com/problemset/problem/1551/A
 
 ### Ordinary Numbers
 https://codeforces.com/contest/1520/problem/B
+
+### Wonderful Coloring 1
+https://codeforces.com/problemset/problem/1551/B1
