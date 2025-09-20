@@ -7,11 +7,17 @@ int main(){
     while(t--){
         ll q, p;
         cin>>q>>p;
-        if(p>=2&&q-p>=2){
-            cout<<3<<endl;
-        }
-        else if(p>q){
+        // if(p>=2&&q-p>=2){
+        //     cout<<3<<endl;
+        // }
+        // else if(p>q){
+        //     cout<<2<<endl;
+        // }
+        if(p>q){
             cout<<2<<endl;
+        }
+        else if((q-1)>p&&p>1){
+            cout<<3<<endl;
         }
         else {
             cout<<-1<<endl;
