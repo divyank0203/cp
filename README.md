@@ -123,6 +123,8 @@ https://codeforces.com/problemset/problem/1734/C
 ### Everybody likes good arrays!
 https://codeforces.com/problemset/problem/1777/A
 
+### Make it Beautiful
+https://codeforces.com/problemset/problem/1783/A
 
 
 ## Recursion & Backtracking:-
