@@ -221,3 +221,6 @@ https://codeforces.com/problemset/problem/1560/C
 
 ### Who's Opposite?
 https://codeforces.com/problemset/problem/1560/B
+
+### Linear Keyboard
+https://codeforces.com/problemset/problem/1607/A

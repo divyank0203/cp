@@ -7,26 +7,31 @@ int main(){
     while(t--){
         string s;
         cin>>s;
-        ll m=-1;
+        string s2=s;
+        sort(s2.begin(), s2.end());
+        bool flag=false;
+        ll m=0;
         for(ll i=0; i<s.length(); i++){
             if(s[i]=='a'){
+                flag=true;
                 m=i;
                 break;
             }
         }
-        ll i=m-1;
-        ll j=m+1;
+        ll i=m;
+        ll j=m;
         bool f=true;
-        if(m==-1){
+        if(!flag){
             cout<<"NO"<<endl;
+            
         }
         else{
          while(i>=0&&j<s.length()){
-                        if(s[m]+1==s[i]){
+                        if(char(s[m]+1)==s[i-1]){
                             m--;
                             i=m;
                         }
-                        else if(s[m]+1==s[j]){
+                        else if(char(s[m]+1)==s[j+1]){
                             m++;
                             j=m;
                         }
@@ -36,7 +41,7 @@ int main(){
                             break;
                         }
                     }
-                    if(f==true){
+                    if(f){
                         cout<<"YES"<<endl;
                     }
                 }
