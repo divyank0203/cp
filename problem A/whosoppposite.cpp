@@ -14,8 +14,14 @@ int main(){
             cout<<-1<<endl;
         }
         else{
-            ll ans = abs(c-(dif));
-            cout<<ans<<endl;
+            if(c+(dif/2)<=dif){
+                cout<<c+(dif/2)<<endl;
+            }
+            else{
+                cout<<c-(dif/2)<<endl;
+            }
+
+            
         }
     }
 }
