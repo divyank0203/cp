@@ -230,3 +230,6 @@ https://codeforces.com/problemset/problem/1621/A
 
 ### Yet Another Two Integer Problem
 https://codeforces.com/problemset/problem/1409/A
+
+### Red and Blue Jeans
+https://codeforces.com/problemset/problem/1519/A
