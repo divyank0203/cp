@@ -224,3 +224,6 @@ https://codeforces.com/problemset/problem/1560/B
 
 ### Linear Keyboard
 https://codeforces.com/problemset/problem/1607/A
+
+### Stable Arrangement of Rocks
+https://codeforces.com/problemset/problem/1621/A
