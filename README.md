@@ -233,3 +233,11 @@ https://codeforces.com/problemset/problem/1409/A
 
 ### Red and Blue Jeans
 https://codeforces.com/problemset/problem/1519/A
+
+
+
+## Constructive Algorithms
+
+### Lovely Palindromes
+https://codeforces.com/contest/688/problem/B
+
