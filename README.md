@@ -237,6 +237,9 @@ https://codeforces.com/problemset/problem/1519/A
 ### Consecutive Sum Riddle
 https://codeforces.com/problemset/problem/1594/A
 
+### Integer Diversity
+https://codeforces.com/problemset/problem/1616/A
+
 
 
 ## Constructive Algorithms
