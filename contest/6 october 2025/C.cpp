@@ -177,75 +177,139 @@
 //                     int target = cur - D;             auto it = m.find(target);             if(it != m.end()) {                 int j = it->second;                 int len = i - j;                 if(len < min_len) min_len = len;             }             m[cur] = i;         }         if(min_len == n) {             cout << -1 << endl;         } else {             cout << min_len << endl;         }     }     return 0; }
 
 
+// #include <bits/stdc++.h>
+// using namespace std;
+// using ll = long long;
+// using ld = long double;
+// using vll = vector<ll> ;
+// using vvll = vector<vll> ;
+// int main() {
+
+//     ll t;
+//     cin>>t;
+//     while(t--) {
+//         ll n;
+//         cin>>n;
+//         string s;
+//         cin>>s;
+//         // ll Acount =0;
+//         // ll Bcount = 0;
+//         unordered_map<char, ll> countm;
+//         for(ll i=0; i<s.length(); i++){
+//             countm[s[i]]++;
+//         }
+
+
+//         ll dif=countm['a']-countm['b'];
+//         if(dif==0) {
+//             cout<<0<<endl;
+
+            
+//         }
+//         else{
+
+//         unordered_map<ll, ll> m;
+//         m[0] = 0;
+//         ll c = 0;
+//         ll ans = n+1;
+//         bool flag=false;
+//         for(ll i = 1; i <= n; i++) {
+//             char ch = s[i-1];
+            
+//             if(ch=='a'){
+//                 c++;
+//             }
+//             else{
+//                 c--;
+//             }
+            
+//             ll dif2 = c - dif;
+//             auto it = m.find(dif2);
+//             if(it != m.end()){
+//                 ll j = it->second;
+//                 ll curr_length = i - j;
+//                 if(curr_length<ans) {
+//                     ans = curr_length;
+//                     if(ans==n){
+//                         flag=true;
+//                         break;
+//                     }
+//                 }
+//             }
+//             m[c]=i;
+//         }
+//         if(!flag) {
+//             cout<<ans<<endl;
+//         } else {
+//             cout<<-1<<endl;
+//         }
+
+//         }
+
+//     }
+    
+// }
+
 #include <bits/stdc++.h>
 using namespace std;
-using ll = long long;
-using ld = long double;
-using vll = vector<ll> ;
-using vvll = vector<vll> ;
+
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-    ll t;
-    cin>>t;
-    while(t--) {
-        ll n;
-        cin>>n;
+    int t;
+    cin >> t;
+    while (t--) {
+        int n;
+        cin >> n;
         string s;
-        cin>>s;
-        // ll Acount =0;
-        // ll Bcount = 0;
-        unordered_map<char, ll> countm;
-        for(ll i=0; i<s.length(); i++){
-            countm[s[i]]++;
+        cin >> s;
+
+        int totalA = 0, totalB = 0;
+        for (char ch : s) {
+            if (ch == 'a') totalA++;
+            else totalB++;
         }
 
-
-        ll dif=countm['a']-countm['b'];
-        if(dif==0) {
-            cout<<0<<endl;
-
-            
+        int D = totalA - totalB;
+        if (D == 0) {
+            cout << 0 << "\n";
+            continue;
         }
-        else{
 
-        unordered_map<ll, ll> m;
-        m[0] = 0;
-        ll c = 0;
-        ll ans = n+1;
-        bool flag=false;
-        for(ll i = 1; i <= n; i++) {
-            char ch = s[i-1];
-            
-            if(ch=='a'){
-                c++;
+        // Step 1: Build prefix difference array
+        vector<int> prefix(n + 1, 0);
+        for (int i = 1; i <= n; ++i) {
+            prefix[i] = prefix[i - 1] + (s[i - 1] == 'a' ? 1 : -1);
+        }
+
+        // Step 2: Store positions of each prefix value
+        // Instead of direct hashmap, we group them for lookup.
+        unordered_map<int, vector<int>> positions;
+        positions.reserve(n * 2);
+        for (int i = 0; i <= n; ++i) {
+            positions[prefix[i]].push_back(i);
+        }
+
+        // Step 3: Iterate and use binary search to find smallest matching range
+        int best = n + 1;
+        for (int r = 1; r <= n; ++r) {
+            int needed = prefix[r] - D;
+            auto it = positions.find(needed);
+            if (it == positions.end()) continue;
+            const vector<int> &indices = it->second;
+
+            // find rightmost prefix index less than r
+            auto pos = upper_bound(indices.begin(), indices.end(), r - 1);
+            if (pos != indices.begin()) {
+                --pos;
+                int l = *pos;
+                best = min(best, r - l);
             }
-            else{
-                c--;
-            }
-            
-            ll dif2 = c - dif;
-            auto it = m.find(dif2);
-            if(it != m.end()){
-                ll j = it->second;
-                ll curr_length = i - j;
-                if(curr_length<ans) {
-                    ans = curr_length;
-                    if(ans==n){
-                        flag=true;
-                        break;
-                    }
-                }
-            }
-            m[c]=i;
-        }
-        if(!flag) {
-            cout<<ans<<endl;
-        } else {
-            cout<<-1<<endl;
         }
 
-        }
-
+        if (best > n - 1) cout << -1 << "\n";
+        else cout << best << "\n";
     }
-    
+    return 0;
 }
