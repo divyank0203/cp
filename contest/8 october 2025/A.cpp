@@ -5,7 +5,5 @@ using vll = vector<ll>;
 int main(){
     ll t;
     cin>>t;
-    while(t--){
-        
-    }
+    cout<<(7-t)<<endl;
 }
