@@ -240,6 +240,8 @@ https://codeforces.com/problemset/problem/1594/A
 ### Integer Diversity
 https://codeforces.com/problemset/problem/1616/A
 
+### Delete From the Left
+https://codeforces.com/problemset/problem/1005/B
 
 
 ## Constructive Algorithms
