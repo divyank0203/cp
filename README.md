@@ -243,6 +243,9 @@ https://codeforces.com/problemset/problem/1616/A
 ### Delete From the Left
 https://codeforces.com/problemset/problem/1005/B
 
+### Red and Yellow Card
+https://atcoder.jp/contests/abc292/tasks/abc292_b
+
 
 ## Constructive Algorithms
 
