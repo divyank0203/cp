@@ -246,6 +246,9 @@ https://codeforces.com/problemset/problem/1005/B
 ### Red and Yellow Card
 https://atcoder.jp/contests/abc292/tasks/abc292_b
 
+### Mocha and Math
+https://codeforces.com/problemset/problem/1559/A
+
 
 ## Constructive Algorithms
 
