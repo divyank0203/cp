@@ -1,0 +1,1 @@
+{"name":"Local: maxaverage","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maxaverage.cpp","tests":[{"id":1760760255468,"input":"3\n4\n3 3 3 3\n5\n7 1 6 9 9\n5\n3 4 4 4 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maxaverage.cpp","group":"local","local":true}
