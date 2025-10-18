@@ -1,0 +1,1 @@
+{"name":"Local: brackstack","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\brackstack.cpp","tests":[{"id":1760794243668,"input":"8\n1 (\n2\n1 (\n1 )\n2\n1 (\n1 )\n1 )\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\brackstack.cpp","group":"local","local":true}
