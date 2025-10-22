@@ -249,6 +249,9 @@ https://atcoder.jp/contests/abc292/tasks/abc292_b
 ### Mocha and Math
 https://codeforces.com/problemset/problem/1559/A
 
+### New Palindrome
+https://codeforces.com/problemset/problem/1832/A
+
 
 ## Constructive Algorithms
 
