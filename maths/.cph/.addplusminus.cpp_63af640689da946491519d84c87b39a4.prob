@@ -1,0 +1,1 @@
+{"name":"Local: addplusminus","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\addplusminus.cpp","tests":[{"id":1761642145581,"input":"3\n2\n11\n5\n01101\n5\n10001\n","output":"-\n+-++\n+++-\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\maths\\addplusminus.cpp","group":"local","local":true}

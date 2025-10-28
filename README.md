@@ -126,6 +126,9 @@ https://codeforces.com/problemset/problem/1777/A
 ### Make it Beautiful
 https://codeforces.com/problemset/problem/1783/A
 
+### Add Plus Minus Sign
+https://codeforces.com/problemset/problem/1774/A
+
 
 ## Recursion & Backtracking:-
 
