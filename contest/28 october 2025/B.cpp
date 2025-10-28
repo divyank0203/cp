@@ -11,6 +11,21 @@ int main(){
     ll t;
     cin>>t;
     while(t--){
-        
+        ll n;
+        cin>>n;
+        string s;
+        string t;
+        cin>>s>>t;
+        set<char> m1;
+        set<char> m2;
+        sort(s.begin(), s.end());
+        sort(t.begin(), t.end());
+        if(s==t){
+            cout<<"YES"<<endl;
+        }
+        else{
+            cout<<"NO"<<endl;
+        }
+
     }
 }

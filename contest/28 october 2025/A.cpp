@@ -11,6 +11,13 @@ int main(){
     ll t;
     cin>>t;
     while(t--){
-        
+        ll a,b,c,d;
+        cin>>a>>b>>c>>d;
+        if((a==b&&b==c&&c==d)){
+            cout<<"YES"<<endl;
+        }
+        else{
+            cout<<"NO"<<endl;
+        }
     }
 }
