@@ -1,0 +1,1 @@
+{"name":"Local: bobritto","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\practice\\bobritto.cpp","tests":[{"id":1761652600107,"input":"4\n4 2 -2 2\n4 1 0 4\n3 3 -1 2\n9 8 -6 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\contest\\practice\\bobritto.cpp","group":"local","local":true}
