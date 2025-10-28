@@ -255,6 +255,9 @@ https://codeforces.com/problemset/problem/1559/A
 ### New Palindrome
 https://codeforces.com/problemset/problem/1832/A
 
+### Blank Space 
+https://codeforces.com/problemset/problem/1829/B
+
 
 ## Constructive Algorithms
 
