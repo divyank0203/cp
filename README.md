@@ -264,3 +264,9 @@ https://codeforces.com/problemset/problem/1829/B
 ### Lovely Palindromes
 https://codeforces.com/contest/688/problem/B
 
+
+## Bit Manipulation
+
+### MEXor Mixup
+https://codeforces.com/problemset/problem/1567/B
+
