@@ -1,0 +1,1 @@
+{"name":"Local: kdivisiblesum","url":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\construction algo\\kdivisiblesum.cpp","tests":[{"id":1762094815205,"input":"4\n1 5\n4 3\n8 8\n8 17\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Divyank\\Documents\\GitHub\\cp\\construction algo\\kdivisiblesum.cpp","group":"local","local":true}
