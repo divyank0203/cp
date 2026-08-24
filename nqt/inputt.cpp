@@ -39,7 +39,7 @@ int main(){
     // To output float up to n decimal places:-
     // double num;
     // cin>>num;
-    // cout<<fixed<<setprecision(3)<<num;
+    // cout<<fixed<<setprecision(n)<<num;
     // return 0;
 
     
